@@ -1,0 +1,9 @@
+/.conda
+/data.py
+/docs
+/data
+/.venv
+fairfax_visitor_age_distributions.csv
+*.pdf
+*.pkl
+*.zip
